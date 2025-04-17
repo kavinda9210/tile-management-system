@@ -1,41 +1,40 @@
-🔧 Tile Management System | PHP & MySQL Full Project Demo
+# 🧱 Tile Management System
 
-Welcome to the demo of my Tile Management System, a complete web-based inventory management solution built with PHP and MySQL. This project is ideal for managing tile stock, categories, and customer orders in tile showrooms or warehouses.
+A simple and functional Tile Management System built using **PHP** and **MySQL**. This project allows users to manage tile inventory, track orders, and organize tile categories.
 
-🌐 GitHub Repository:
-🔗 https://github.com/kavinda9210/tile-management-system
+---
 
-📌 Technologies Used:
-PHP (Core PHP)
+## 🎥 Demo Video
 
-MySQL
+📺 Watch the demo on YouTube:  
+[![Tile Management System Demo](https://youtu.be/zTjURcG8aI4)](https://youtu.be/zTjURcG8aI4)
 
-HTML5 & CSS3
+---
 
-JavaScript
+## 📌 Technologies Used
 
-Bootstrap (Optional for styling)
+- ✅ PHP (Core PHP)
+- ✅ MySQL (Database)
+- ✅ HTML5, CSS3
+- ✅ JavaScript (Optional)
+- ✅ Bootstrap (Optional, for UI)
 
-💻 Features:
-🧱 Add, edit, and delete tiles
+---
 
-📦 Track inventory and stock
+## ⚙️ Features
 
-📋 Manage tile categories
+- Add, edit, and delete tiles
+- Manage tile categories (e.g., size, material, price)
+- View stock and availability
+- Track orders and sales
+- Responsive user interface (if Bootstrap is used)
 
-🛒 Process and view orders
+---
 
-🖥️ Responsive UI (if styled with Bootstrap)
+## 🚀 Getting Started
 
-🎯 Ideal For:
+### 📁 Clone the Repository
 
-Beginners learning PHP & MySQL
-
-Mini project or final year academic submission
-
-Small-scale business inventory tracking
-
-✅ Like | 💬 Comment | 🔔 Subscribe for more projects
-📧 For inquiries or collaboration: [your email or social media]
-
-#PHP #MySQL #InventorySystem #TileManagement #WebDevelopment #ProjectDemo
+```bash
+git clone https://github.com/kavinda9210/tile-management-system.git
+cd tile-management-system
